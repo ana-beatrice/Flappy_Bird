@@ -1,2 +1,3 @@
 # Flappy_Bird
-The purpose of this project was to develop a Flappy bird game in order to deepen the knowledge of poo and python.
+
+The application is structured in 2 classes. The first class that is the main window and the second one which has the obstacles
